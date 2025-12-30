@@ -1,0 +1,1 @@
+- [ ] Make table responsive for mobile devices by converting to card layout on small screens
