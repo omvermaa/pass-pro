@@ -1,6 +1,6 @@
 import Navbar from "./component/Navbar.jsx";
 import Manager from "./component/Manager.jsx";
-import Footer from "./component/footer.jsx";
+import Footer from "./component/Footer.jsx";
 
 function App() {
   return (
